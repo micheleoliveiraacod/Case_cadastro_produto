@@ -17,7 +17,7 @@ Automatizar tarefas administrativas de baixa frequência e alto volume de repeti
 - Visual Studo Code
 - Pandas
 - Pyautogui
-- Ppenpyxl
+- Openpyxl
 
 ## 🧩 Modo de construção
 

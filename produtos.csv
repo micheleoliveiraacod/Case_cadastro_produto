@@ -1,0 +1,11 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,margem
+ELEC001,Samsung,Smartphone Galaxy S26,Smartphone,Eletrônicos de Consumo,4599.99,3200.00,30.44
+ELEC002,Apple,iPhone 17 Pro,Smartphone,Eletrônicos de Consumo,6299.99,4400.00,30.17
+ELEC003,Dell,XPS 15,Laptop,Informática,12999.99,9000.00,30.77
+ELEC004,Apple,iPad Pro 13,Tablet,Eletrônicos de Consumo,8999.99,6200.00,31.09
+ELEC005,Samsung,QLED 65 TV,Televisão,Eletrônicos de Consumo,7999.99,5400.00,32.50
+ELEC006,Lenovo,ThinkPad X1,Laptop,Informática,11999.99,8300.00,30.84
+ELEC007,Sony,WH-1000XM6,Fone de Ouvido,Áudio,1999.99,1300.00,35.00
+ELEC008,Apple,Watch Series 11,Smartwatch,Wearables,4999.99,3400.00,32.00
+ELEC009,Asus,ROG Strix Gaming,Desktop,Gaming,15999.99,11000.00,31.25
+ELEC010,Philips,Hue Smart Bulb,Lâmpada Inteligente,Casa Inteligente,299.99,200.00,33.34

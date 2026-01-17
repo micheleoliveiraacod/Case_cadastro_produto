@@ -21,8 +21,7 @@ Automatizar tarefas administrativas de baixa frequência e alto volume de repeti
 
 ## 🧩 Modo de construção
 
-Fazer o mapemento do fluxo de trabalho para Coletar informações sobre as variaveis e entradas (link, login, senha, dataset), para a partir disso desenvolver a sequência logica da programação.
-
+Fazer o mapemento do fluxo de trabalho para coletar informações sobre as variaveis e entradas (link, login, senha, dataset), para a partir disso desenvolver a sequência logica da programação.
 
 ## 📃 Instruções de uso
 
